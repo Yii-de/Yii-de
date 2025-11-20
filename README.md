@@ -22,6 +22,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+-----------
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
@@ -33,7 +34,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+-----------
 
 <div align="center">
   <div style="display: inline-block; margin-right: 15px;">
