@@ -43,14 +43,6 @@
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy" />
     </picture>
   </div>
-
-  <div style="display: inline-block;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=tokyonight&gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=buefy&gh-light-mode-only" media="(prefers-color-scheme: light)" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=buefy"/>
-    </picture>
-  </div>
 </div>
 
 <br clear="both">
