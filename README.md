@@ -1,14 +1,21 @@
-
-
-<h1>hey there 👋</h1>
+<h1 align = "center">Yeep</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align = "center">
+  <img src="https://img.shields.io/badge/🎓 university-haui-blue" alt="university: haui" />
+  <img src="https://img.shields.io/badge/❤ hobby-Video Game~-red" alt="hobby: video game~" />
+
+  <img src="https://img.shields.io/github/followers/Yii-de?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Yii-de?label=Stars&style=social" alt="GitHub stars" />
+
+</div>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+  <ul>
+    <li>Hello, I'm Huy from Viet Nam. 📚 I'm currently learning how to become a Full-stack Dev.</li>
+  </ul>
 
 ###
 
@@ -16,25 +23,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+</p>
 
 ###
 
@@ -42,14 +34,29 @@
 
 ###
 
-<div align="center">
-  <img src="[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true)](https://github.com/Yii-de)" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
+<div align="center">
+  <div style="display: inline-block; margin-right: 15px;">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=tokyonight&gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy&gh-light-mode-only" media="(prefers-color-scheme: light)" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy" />
+    </picture>
+  </div>
+
+  <div style="display: inline-block;">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=tokyonight&gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=buefy&gh-light-mode-only" media="(prefers-color-scheme: light)" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yii-de&layout=compact&theme=buefy"/>
+    </picture>
+  </div>
+</div>
 
 <br clear="both">
 
-<img src="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
+<img alt="github contribution grid snake animation" src="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
 
 ###
