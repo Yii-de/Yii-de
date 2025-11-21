@@ -39,8 +39,12 @@
 
 <br clear="both">
 
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
-<img alt="github contribution grid snake animation" src="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
