@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@a691ddbca7a9dc9e199e2d74dc-2ef9edf10dcc9e19982d74dd39
+        uses: Platane/snk@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39
         with:
           github_user_name: ${{ github.repository_owner }}
 
