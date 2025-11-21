@@ -1,14 +1,3 @@
-name: Generate pacman animation
-
-on:
-  schedule:
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
@@ -19,10 +8,9 @@ jobs:
 
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39
+        uses: Platane/snk@a691ddbca7a9dc9e199e2d74dc-2ef9edf10dcc9e19982d74dd39
         with:
           github_user_name: ${{ github.repository_owner }}
-
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
