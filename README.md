@@ -27,16 +27,6 @@
 </p>
 
 <b>🔥 My Stats :</b>
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=tokyonight&gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy&gh-light-mode-only" media="(prefers-color-scheme: light)" />
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yii-de&show_icons=true&theme=buefy" />
-    </picture>
-  </div>
-</div>
-
 <br clear="both">
 
 <div>
