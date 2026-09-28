@@ -13,7 +13,7 @@
 ###
 
   <ul>
-    <li>Hello, I'm Huy from Vietnam. 📚 I'm currently learning how to become a Full-stack Dev.</li>
+    <li>Hello, I'm a small dev from Vietnam. Currently learning how to become a Full-stack Dev.</li>
   </ul>
 
 ###
