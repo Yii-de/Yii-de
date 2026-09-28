@@ -17,7 +17,6 @@
   </ul>
 
 ###
-<h2>Static</h2>
 
 <b>🛠 Language and tools</b>
 <p align="left">
