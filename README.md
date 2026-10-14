@@ -16,18 +16,26 @@
     <li>Hello, I'm a small dev from Vietnam. Currently learning how to become a Full-stack Dev.</li>
   </ul>
 
-###
 
-<b>🛠 Language and tools</b>
+
+## Language and tools
 <p align="left">
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 </p>
 </p>
 
-<b>🔥 My Stats :</b>
-<br clear="both">
 
+## Statistivc
+
+![](https://github-readme-stats.shion.dev/api?username=Yii-de&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Yii-de&theme=solarized-light&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Yii-de&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## Contribution Stats
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yii-de/Yeep/blob/output/pacman-contribution-graph-dark.svg">
